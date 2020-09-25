@@ -3,7 +3,7 @@
 ## I'm a Husband, Father and Fullstack Developer!
 
 - 🔭 I’m currently working on a mon$tack38 IT Solutions!
-- ⚡ Our projects that we're currently working on are [NegOrBiz] and [JennyTrendShop]
+- ⚡ Our projects that we're currently working on are [NegOrBiz] and [JennyTrendyShop]
 - 🥅 2020 Goals: Contribute more to Open Source projects and to help more SME to get online.
 
 ### Connect with me:
