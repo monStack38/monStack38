@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="monStack38's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monstack38&show_icons=false&hide_border=true" />
+  <img align="left" alt="monStack38's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=monstack38&show_icons=true&hide_border=true" />
 
 </details>
 
