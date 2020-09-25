@@ -1,9 +1,9 @@
 ### Hi there, I'm Mon - aka [mon$tack38][website] 👋
 
-## I'm a Husband, Father and Developer!
+## I'm a Husband, Father and Fullstack Developer!
 
 - 🔭 I’m currently working on a mon$tack38 IT Solutions!
-- ⚡ Our projects we're currently working on are [www.negorbiz.com] and [www.jennytrendyshop.com]
+- ⚡ Our projects that we're currently working on are [www.negorbiz.com] and [www.jennytrendyshop.com]
 - 🥅 2020 Goals: Contribute more to Open Source projects and to help more SME to get online.
 
 ### Connect with me:
