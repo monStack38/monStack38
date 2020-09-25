@@ -3,10 +3,8 @@
 ## I'm a Husband, Father and Developer!
 
 - 🔭 I’m currently working on a mon$tack38 IT Solutions!
-- ⚡ Our projects we're currently working on is [www.negorbiz.com] and [www.jennytrendyshop.com]
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Our projects we're currently working on are [www.negorbiz.com] and [www.jennytrendyshop.com]
+- 🥅 2020 Goals: Contribute more to Open Source projects and to help more SME to get online.
 
 ### Connect with me:
 
