@@ -1,10 +1,9 @@
 ### Hi there, I'm Mon - aka [mon$tack38][website] 👋
 
-## I'm a Loving Husband, Father and Fullstack Developer!
+## I'm a Loving Husband, Father, and Fullstack Web and Mobile Developer!
 
-- 🔭 I’m currently working on a mon$tack38 IT Solutions!
-- ⚡ Our projects that we're currently working on are [NegOrBiz] and [JennyTrendyShop]
-- 🥅 2020 Goals: Contribute more to Open Source projects and to help more SME to get online.
+- 🔭 I’m currently working as a Freelancer!
+- ⚡ My projects that we're currently working on are [NegrosOrientalBusinessPage] and [JennyTrendyShop].
 
 ### Connect with me:
 
@@ -23,6 +22,9 @@
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+
 
 
 <!--
@@ -63,9 +65,9 @@
  
 
 
-[website]: https://monstack38.com
+[website]: http://monstack38.com/
 [youtube]: https://youtube.com/monStack38
 [instagram]: https://instagram.com/monStack38
 [linkedin]: https://linkedin.com/in/monStack38
-[NegOrBiz]: https://www.negorbiz.com/
+[NegrosOrientalBusinessPage]: https://www.negrosorientalbusinesspage.com/
 [JennyTrendyShop]: https://www.jennytrendyshop.com/
