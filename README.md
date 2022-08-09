@@ -3,7 +3,7 @@
 ## I'm a Loving Husband, Father, and Fullstack Web and Mobile Developer!
 
 - 🔭 I’m currently working as a Freelancer!
-- ⚡ My projects that i'm currently working on are [NegrosOrientalBusinessPage] and [JennyTrendyShop].
+- ⚡ I am the founder of DumagueteWebmasters.com
 
 ### Connect with me:
 
