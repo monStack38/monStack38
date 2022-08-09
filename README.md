@@ -1,6 +1,6 @@
 ### Hi there, I'm Mon - aka [mon$tack38][website] 👋
 
-## I'm a Loving Husband, Father, and Fullstack Web and Mobile Developer!
+## I'm a Loving Husband, Father, and Fullstack Developer.
 
 - 🔭 I’m currently working as a Freelancer!
 - ⚡ I am the founder of DumagueteWebmasters.com
